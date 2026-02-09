@@ -1,4 +1,4 @@
-<img width="1139" height="684" alt="nmap" src="https://github.com/user-attachments/assets/464ec782-3b6d-4f13-9703-c8acd8d456cb" /># Facts – By xcotelo
+# Facts – By xcotelo
 
 * **Difficulty:** Easy
 * **IP:** `10.10.11.xx`
